@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "hacksync"
+version = "2020.4"
+description = "It's not async, it's hacksync."
+authors = ["Andrew Spittlemeister <andrew.spittlemeister@gmail.com>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.6"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
