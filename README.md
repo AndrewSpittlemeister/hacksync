@@ -1,4 +1,4 @@
-# Hacksync
+# hacksync
 
 Do we really *need* async & await? Yeah, we probably do, thread startup time is no joke. But at least you don't need to write the line that starts up the event loop, I call that a productivity boost.
 
